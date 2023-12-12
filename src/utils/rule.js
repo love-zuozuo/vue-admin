@@ -1,8 +1,6 @@
 
 /***
  * Rule 验证对象
- * by:zuozuo 
- * 2019-01-04
  */
 
 export const Rule={
